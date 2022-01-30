@@ -1,0 +1,10 @@
+body {
+    display: block;
+    background: lavender;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
+}
+
+p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

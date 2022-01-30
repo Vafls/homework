@@ -1,0 +1,7 @@
+body {
+    display: block;
+    background: paleturquoise;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
+}
